@@ -3,9 +3,7 @@
 A modern and responsive login screen built with Flutter (or HTML/CSS/JS — adjust based on your stack).  
 This project demonstrates clean UI design, form validation, and basic authentication flow structure.
 
-<p align="center">
-  <img src="assets/images/Login-screen.png" alt="Calculator-BMI Screenshot" width="400">
-</p>
+![Login-Screen Banner](assets/images/Login-screen.png)
 
 ---
 
