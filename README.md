@@ -79,13 +79,13 @@ Add biometric login (Face ID / Fingerprint)
 Contributions are welcome!
 If you want to improve this project:
 
-Fork the repository
+1. Fork the repository
 
-Create your feature branch
+2. Create your feature branch
 
-Commit your changes
+3. Commit your changes
 
-Push and open a pull request
+4. Push and open a pull request
 
 🧾 License
 
