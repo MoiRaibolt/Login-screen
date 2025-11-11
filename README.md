@@ -41,7 +41,7 @@ Follow these steps to run the project locally:
    git clone https://github.com/MoiRaibolt/Login-screen.git
 2. Navigate into the project folder
 
-  ´´´´cd Login-screen
+  cd Login-screen
 
 
 3. Install dependencies
